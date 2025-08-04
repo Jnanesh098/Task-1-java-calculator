@@ -20,7 +20,7 @@ The program uses:
 
 ## Tools & Technologies Used
 - Java (JDK 8 or above)
-- VS Code / IntelliJ IDEA Community Edition
+- VS Code / IntelliJ IDEA Community Edition / Eclipse
 - Terminal or Command Prompt
 
 ------------------------
